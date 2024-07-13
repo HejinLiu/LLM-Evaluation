@@ -1,4 +1,4 @@
-# LLM-Eval 研究报告-刘赫晋
+# LLM-Evaluation-Project-Note
 
 ## 1. 概述
 
@@ -45,7 +45,7 @@
 >
 > - **Raw**: 对生成概率不作处理，直接选择概率最高的答案选项。
 > - **LN**: 通过 n 次方根归一化序列概率，即 $$ P ( x _ { 1 } , x _ { 2 } , \ldots , x _ { n } ) = \sqrt [ n ] { \prod _ { i = 1 } ^ { n } P ( x _ { i } ) } $$。
-> - **UN**: 答案概率通过无条件概率归一化，即 $$ \frac { P ( c o m p l e t i o n | c o n t e x t ) } { P ( c o m p l e t i o n | a n s w e r - c o n t e x t ) } $$。
+> - **UN**: 答案概率通过无条件概率归一化，即 P(completion|context)P(completion|answer−context) \frac { P ( c o m p l e t i o n | c o n t e x t ) } { P ( c o m p l e t i o n | a n s w e r - c o n t e x t ) } 。
 
 ### 问题
 
