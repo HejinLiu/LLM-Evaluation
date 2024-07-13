@@ -1,0 +1,1054 @@
+QuestionID,Answer,CP_Raw,CP_UN,CP_LN,MCP_output,MCP_Answer
+075e483d21c29a511267ef62bedc0461,A,D,D,D,B,B
+61fe6e879ff18686d7552425a36344c8,B,D,D,D,B,B
+4c1cb0e95b99f72d55c068ba0255c54d,A,C,C,C,A,A
+02e821a3e53cb320790950aab4489e85,D,C,B,A,e,e
+23505889b94e880c3e89cff4ba119860,C,C,B,A,T,"The fox walked from the city into the forest, it was looking for _____"
+e8a8b3a2061aa0e6d7c6b522e9612824,D,E,E,B,C,C
+09555c056f3cf0b7e0b84d8df4be1db7,E,A,A,A,b,baggage
+3d0f8824ea83ddcc9ab03055658b89d3,B,C,A,C,b,b
+86c59f14af97b33ec13edc6ec4389e31,E,B,D,B,a,answer B
+cae61908c731d4a20889e04c3e784ebe,D,E,E,E,D,D
+1a7f5b3c65364d9be002576660c914fe,B,D,E,D,e,e
+dac769116ed064bc70936c15eb822c3e,C,E,A,E,B,"Before getting a divorce, the wife felt anguish."
+f5c9664c9930b704f2724fbd617bee9d,C,A,E,A,r,rest area
+b63b9809c203321d6659ddf8551894bf,A,A,D,A,A,A
+527e72eb38950b8031ee6217ef531960,C,A,C,A,l,living room
+e6766a66f8d326bf00fbf628a0e4ef24,D,E,E,E,d,d
+a76403b4921a9281b6ee2a7241a5ec9f,E,D,B,D,b,barbeque
+ad96098698b8378b2e79c6424920ffbd,D,B,A,B,C,C
+6d4ed2c485187ed79ff3bdcc8cca6132,D,C,C,C,b,b
+a40f5339ee858a0a119cbac052c5a2d0,B,E,C,A,A,A
+4850bf8b6b309548ef623d5592ffbca2,E,E,E,E,g,getting tired
+e6d99b4b76f74961a400ad0001b13b73,B,D,B,D,s,side
+f5950a62f9eaae34f1e914b3cf5208cf,D,A,D,A,c,computer network
+f36489668c28b26c0cdbc56cec1db27b,E,A,A,A,a,a
+0476192858e7f541611b5c2d3c5e5197,C,D,B,D,P,Problem
+df7861813910ae204c3bd0b3c16fe5d9,D,B,D,B,t,take money
+c12a904025471139df4f8860cc380c60,D,C,D,C,W,Walking
+a69bd1bf3c06a233d696a00d71a9db36,D,E,C,E,d,ditch
+84e983f432647531b55b8b72c12fb78a,E,C,B,C,E,E
+68f123f22be7bff13875e8b752b2d933,A,D,D,D,e,earth
+c9580b132b323906f0d51e7dc5b4ce29,C,D,D,D,I,"I will tell you how to get more information or share your thought.
+
+Write an essay"
+80930e9df9ac4ad752749a54e7fc124f,B,D,B,D,s,street
+f080ab037c1aaf689a43cc030e9d93e9,D,E,D,A,v,venice
+a261d4eaf8b33c0730d830ebbffbd9f8,D,C,B,C,p,pack or bag
+bfd14dedb440ae1c266c61aa22960778,C,A,D,A,O,One dimensional
+5a953b5fb26f1614640574f65410e8b0,D,D,D,D,E,E
+ac0351d8649fb60af40c5638061a2e21,D,C,C,C,w,west
+c8b18acf8e95172ff79b0a837e9369f3,A,D,E,D,b,boston
+7a7ff4499a7162265ddac0c3e2e8e5fc,E,B,C,B,G,Government
+fb721d7949d06915a2dd6fc6ec815325,D,A,C,A,D,D
+47db2878d917ceb8d82627de4722a254,D,C,A,C,A,A
+f03a340e093dbd5eea88feb6507ed20e,D,E,A,E,p,paying
+5f6296570569960a05c47a2a79656363,B,A,B,A,D,D
+89586c4ab04f3133a2c7165322409c3d,C,C,C,C,A,A
+98b176ac1c91370e079863d13c7dd964,E,C,A,C,c,communication
+b13d110147ecf24562b64a69df4fe5ad,D,E,E,E,s,summer
+145f1ccce9aeab854f6514f927f58288,C,B,B,B,C,C
+c428412a660f34965772a7389ce58e0a,E,E,D,E,A,A
+80f8afc17b5b5915a327240db8bc2a52,D,A,C,A,p,proximity
+a662c9971a497d601c5be888670d10ae,B,D,A,D,L,Late for work
+8bf8c8597dfc5e8ec72b486541338e33,A,C,C,C,m,mandate
+313b72ce5b14f3d0b86b91c7bc6497be,A,D,D,D,A,A
+6efbe0725841b961848b6935fe67a471,A,B,A,B,B,B
+4163cfdd31feb277084ceb3996b3a851,C,E,D,D,A,A
+3f720c9ad7f3eb99400dd8c81fc269d8,C,C,B,C,C,C
+4dbeeb50a01a3b5c9c76d1052c4b14ea,D,C,E,C,g,go to jail
+129014ff081296c3d9bbc338c5ff32db,C,A,B,A,D,D
+8f495e9bcd88ce23617197520442090c,B,D,E,D,H,Have rest
+6dc921840aa1e5dda3333b79007f630b,A,B,E,B,A,Apply for job
+c879e1677869c4d58102c608da805453,A,B,B,B,H,Happiness
+16699879d1f1b67f1664e78324cadd65,E,A,C,C,C,C
+a7c9d4f6be3bb973c4ebecb1e841b3ac,C,A,E,A,l,lake or river
+9f84a7225b5da1e119ae54919f38ba79,A,B,D,C,A,A
+70a97a0079878b3a46080d00a4e118fb,A,B,A,B,A,A
+00dc6e53c3715d0050ffb78646cd6c7c,A,E,C,E,A,A
+d829cc86312173f28b877987ae87fd7c,B,C,D,E,A,A
+223d54ae26635218666dc05f42a469e9,D,E,E,E,p,paste
+f75bb741497541837b92c4c2a113f5a4,B,D,D,D,A,A
+5208880ea3b34d2de7ab59aedf499225,E,A,C,A,e,e
+21db09783c773fed677cd5ec3b71eecf,C,C,E,E,B,B
+63e0569414c0bc6e51c8c230a598ac55,C,B,B,B,C,C
+142626e4fc9656c97d7d7f93822cc381,B,C,B,C,r,respond
+c59b184974e5f820763bd901a62a5473,B,E,E,E,l,library
+58c3817107e323fdd7d70c4014990626,D,B,E,E,A,A
+a7be27a64aad72c029f05a2c7fc6d55f,B,E,D,E,s,skill
+6122883c3b5cd10b59a29dbd582e19c8,D,C,B,C,D,D
+5cc173999089fd11673252a58b8c0feb,A,C,E,C,A,A
+d57ca8ce3f5ef4794d127c2385228698,A,C,C,C,C,C
+d6503fc1f87e3e2caeb7bf8e16526e0f,A,E,E,E,d,death
+1c16c914f3e9e99c678d6f1ec30194a8,D,D,E,D,B,B
+a7b24b7ab7f0065c8688ee84d47899f1,B,A,D,D,c,construction site
+e97a7b91a1ca85f362c42e04c983fc2a,C,C,C,D,B,B
+bc07822ca1f8892b80d632b9c03e1187,C,A,C,A,f,fun
+367a52860ea02568f014242ec1967d78,E,A,B,D,l,library of congress
+ca9a3ccfb140aa66816f96ac983b6d9f,A,C,D,C,s,store
+591221f7cf4790253d19b08d9ea1f77e,A,C,B,C,A,A
+cf9904211d9c602da9e41be0e3b24aff,B,E,D,E,I,Income tax
+864ff0aa11611d0de8865034ac0ecb86,D,C,D,D,e,e
+d4ebade47b1e84ab403efc715a7ca991,E,B,D,B,E,E
+3c0a8fd4547feaa73b8e5d797e7ecc76,B,B,E,B,b,b
+ad3aa40dec688333dba0b88e325481ea,D,E,E,E,B,B
+1bca9774955d7e794a6e48ffcf95e728,A,B,B,B,A,A
+68b13a7a996a07b8ea6731349d9348a4,C,E,D,E,e,e
+c12221a251d96e691753cfd3ac0b33c4,A,C,C,C,R,Reality
+de450d514150b9ff12c25026253116f8,D,D,B,D,A,A
+042ce5d57aed06e6988c3739050fb1e4,D,A,A,A,F,F. natural disaster
+77a4a131e9083f6a4c70e8f88df54056,B,A,A,A,A,A
+5f26970bd0b7b4a38f185aa5d5688717,D,D,D,D,b,building
+8adc90ed047cb821793c84567a14d2e2,B,A,A,A,b,b
+167c0dc61979a026ebeb721f9513bda2,C,A,B,A,e,e
+1cc14f6c9ae4435ddb4e4c520eee0065,C,E,A,E,d,desk drawer
+49430bdae459f7368471e14391d0eeb1,E,E,B,E,E,E
+e63b2dd1db7e1bd707956a41d3d2a83c,A,B,D,B,A,A
+b18afff8078a6baa334b8bfb21db8624,A,B,C,B,g,go to church
+84a559081220249df3a27f1f406594f6,D,C,C,C,D,D
+eefde762b9bf947d1c1b87fea4bbe6b4,C,D,C,D,A,A
+2a258ed37974c9226cbb32cfbf88d4f0,D,D,E,D,f,field of flowers
+308b1c17a0dc5273d442dba191789de7,D,D,C,D,B,B
+5f3357cd75e10f08d46195289d1a823d,A,D,A,D,c,c
+8c157adc2027737cefb4ee0d6c9836d6,C,A,D,A,f,fly
+688772598f69066794067c48197a9ab2,E,B,C,B,F,Fists
+6874cbf68869d5482b719778f85b09a5,E,E,B,E,l,living room
+397efef2f7c69fbb8f7507f2907196e3,A,C,B,C,A,A
+6741642ade99f46b6086e9468f327b49,D,D,C,D,S,"She was sick and staying in bed the day of the event, unfortunately this meant she was (A) resting"
+c4dcfeacbbc2d365a6fc34d8811e4ed6,D,E,D,E,F,Frostbite.
+64ce22ee28a83119363b83a83de1ae92,B,D,D,B,t,table
+46376ac886af06e85beac37f3391c357,A,A,D,A,A,A
+4bc34224aaa443baad6ccae86e11f3ab,A,E,B,E,C,C
+9fd4737d024fb0d6a9f047bed295bddb,E,C,A,C,E,E
+2713983edc30c6391b9aa4ef2cb7ed79,B,C,D,D,F,France
+478a2734a41c208d54b79e165590c8d2,B,C,C,C,D,D
+8f338dbffed1b6489297aeeace0e6388,D,D,B,D,e,end of line
+2060c15ad927d63db327f6277abee731,E,D,A,D,E,E
+a74b9266de3c155863231cc6eae36dce,C,A,C,A,c,church
+78cc94259c69fe5860663cfb709e12d0,D,B,B,B,H,Home
+0207126210b7d3c65da2f62b175e0e99,C,E,B,E,E,E
+75ca0cb4e5e4ff188fcf7aa2c8af58fb,C,C,A,E,b,become knowledgeable
+6bdb0431fa12fbdc5d641044379eec7b,C,D,D,D,L,Launch Pad
+86ca5b66f3edd3ba38f117dd2c2cc1b2,A,B,B,A,b,burlap sack
+3c4726ed93e78b8c9ed9ff4ac444a62f,C,D,D,D,r,relaxation
+aa55b7f6b2b2c627ea7d95b621a0ffbf,C,C,D,E,e,e
+5b31de5a0506985dea62030485e9c3c3,B,E,D,D,A,A
+9a2a94207d01eae356a632638c708505,B,D,D,D,a,audience
+6b819727eb8a670df26a7ffad036c119,D,A,D,B,D,D
+bb7e95200163d56ff217cba6eae470c8,B,A,E,A,b,b
+e1c1e59bef82df97789fb74211588d25,E,B,D,C,s,sit
+b050548eda5c0aa847542a5e5f2226ea,B,D,D,D,B,B
+5fed6d8e79458a77fafccc77c5430166,A,E,B,E,B,B
+4840397382c65294f9f1505cd5845799,D,C,E,C,A,Amusement Park
+98f268fe3f6603dffd1ef3720e612adf,D,C,A,C,o,outside
+1958f3bf80c4515629f0d342c540c0b8,C,C,D,C,A,A
+d27d0465137f3c709426eccae98acbe5,C,E,A,E,a,alone
+d227f28c9490843fb225fcf4c7904ba9,A,E,B,D,h,home
+b2c3a4d4c013ec6251bcfd92f35063d6,E,A,A,A,E,E
+3667955cd4a7b8af3f2ed35747eea857,A,D,A,D,E,E
+8f94e2afc2456142d50a8e76bb4f2ba7,A,E,C,E,E,E
+86ea5303d0194c17ac6f6dec5585751d,E,B,A,B,C,C
+371f22b6bf7c922f4f3a3ed182992656,D,A,C,A,s,school grade
+53cec6df76ad2fc0d802979682d1ce4e,E,D,B,D,w,work
+126fcd9a539ac8237f82863df295108e,C,C,D,D,I,Improved health
+b629881148db7b32eed4d225fedf7c31,A,B,D,B,n,nail
+f35128ce82c006de5f73efdd0f9cca06,C,B,D,C,A,A
+e5a694ab7333ea27a942613d248b732a,E,B,C,C,D,D
+c330780e3e855a5b2bd730b9a3997c5c,B,C,E,D,e,e
+fa01c3b02ef685da10246088861f8e1b,C,D,B,A,b,building
+4c0253d32a773f66cd70cc19cec89f80,B,D,C,E,A,A
+f135ec42b0fa32dfcbf41e8af1fa9476,C,E,D,B,m,music room
+7c22c55993fccd4c7d3c4d1f97bfff7e,C,A,E,A,l,learning
+ed0937d5ecad752068e97f9d8c5bd5c5,B,E,A,E,p,plan to marry
+eae086f7e41faeffd22f8bb5b9e40cbc,C,B,C,B,h,happiness
+8e455fecd2912108d741759ebc26183e,C,C,C,C,B,B
+640fa2a025a73dc0087c55a397b339d9,A,A,A,A,D,D
+441fe2061e792c3df4f60a0dc41766e2,E,D,D,D,E,E
+02c5b92d97670cdd5fbf7a1f697fbff8,D,C,A,C,c,c
+d4fc07e02f2bc0492f67eb96af10538b,E,B,D,B,b,b
+6efacba15f0cd3ff31915405875895f8,A,E,C,B,A,A
+9b54283999001e13a8a43d3e2a1c392b,E,C,D,C,o,overpriced
+35cb4c0687c17933114b02377f6c77d6,A,A,E,A,m,massive
+5f1b5f7b8cba3d315e96435bb4720135,A,C,C,C,D,D
+dff0e9959fcbbe48b43e62156248a553,B,D,E,B,C,C
+e539f3d55509e93558373042bb1e3ed4,B,C,B,C,e,e
+037b67b11456abd7e556d3a864eceba4,B,C,A,E,B,B
+e99da2b1d9ec4be89c2b42407aa5a15f,B,B,B,B,p,play
+586f0c1a627e0199a2e07b77e729f4dc,A,B,E,B,f,family room
+ab6872dabd0cc54c55200282e19294f4,C,E,E,A,C,C
+901dc43313a51b67a0bdff75b4415a49,E,E,E,E,l,learning about
+45f0c751b90321956f1f1fb67f33f5c4,E,A,C,A,E,E
+aa3ad08cfe609df6c1024ad7a0665d94,A,B,C,B,A,A
+4c71b0e5cbd0f9fcc0c4086c49552c65,C,E,E,E,s,street corner
+6f18c3f29d65c51e1f4a79cc291b8a96,B,D,E,D,d,death and decay
+10a9268f59c783e75131ae08e28202a5,C,D,D,D,r,region
+442dd2d372228b9942f55d761ef961a3,B,B,D,B,B,B
+a7f8089e91cf764119cc90d33bbe6c54,C,A,E,A,A,A
+8e3dfa1aa4cee48a75da9fcb203e754f,B,E,C,E,m,music store
+585a194bba23870f6a636068f081de00,B,A,B,A,B,B
+9433423c6b7d9f9d0a2aca1cdf63c139,B,E,E,E,w,wave goodbye
+c10ebb0e1b588d6a534edb297d2f4443,A,C,B,B,D,D
+7851102d9fb1010792e4860dfd408f59,B,C,C,C,A,A
+304200a3cd10da12a92022893f0fe3fc,D,E,C,C,t,thought creatively
+2ac67ce590944ea9c5ee1dd41a721c56,C,E,D,A,i,immortal
+a378255dfaa7c238d1c258084726c899,E,B,A,A,g,getting good grades
+93cdaa3a2af5822034be244004277fa3,B,E,D,E,A,Answer: B
+12148e42c0fc0ffa3e612967070abcfd,C,A,E,A,y,your spine
+c70ff170a6f133cad91ea2d9dfc4ce0d,B,D,B,D,B,B
+0077e331c0a3d611c0d8ad367783f2ef,B,E,C,E,B,B
+be8a6042c28c545dc971b4340b675365,E,D,D,D,A,A
+6782b7ce5d7fe7245edd246d63f6014b,C,A,B,D,B,B
+5eae9a162af2fd897c50ed1883a3809a,A,A,B,A,B,B
+27fece3289aea6b667d3f2f3402327f8,E,E,D,E,B,B
+35c3f9787f43626188837159ca86c8f2,A,E,A,E,b,b
+5a55a24206cf1e342afde7991c6b0b76,A,D,B,A,c,communicating with others
+9c047d024146b4fecd933e559f0adb4f,A,E,D,E,A,A
+278aa323f2f0790e40716b6bd5dbed91,D,E,D,E,y,yard
+a76971c0fa4f8d0e32fcaf1298367c62,D,B,E,B,l,learn
+41e688b8ec1b507dbb8f8b37b40f26e6,E,D,B,D,e,e
+946ba9d7088272f0a81647ac1c347d03,C,A,A,A,C,C
+6aa6caa33c91e2a08bc2e18a1d4da225,E,A,A,A,E,E
+b9d9d5dde90821e21b97f13e7fb97e29,E,B,E,B,i,incorrect
+b4a8d7e89ea6e3bf9e208a75a13fee6a,D,C,B,C,C,C
+c8660d8acad677ef247856e930a27f06,B,A,A,A,G,Gaining knowledge
+ba37a5a38dd740acde5b00dc3d0ce4de,B,E,C,E,N,Notoriety
+f375ae73d22eb099f403128708e21962,D,C,C,C,A,A
+748842cda8d355f5511d23d7f7a7bb67,C,E,E,E,c,container
+3ff447228a51f78915ad6da75a85aa3c,B,B,A,B,C,C
+cfd9ae46361ef2f811b932f86d2a9af3,E,B,D,D,b,building
+1c57cabf4fa376748e7474ced6243e50,B,A,C,A,A,A
+3c95d76ae5da18d365ed68e6fc583f82,D,B,E,B,d,d
+af602ff4c6b62274a6ee77fc4469d033,B,A,C,D,B,B
+111d65fa327038cc38c2f3048975fced,C,B,C,D,r,race track
+dd1f94d7288ed696f2d83b04abbf27a7,D,C,B,B,A,At home
+2d7c65a4a693574f855232f94572ca08,E,B,A,B,o,office depot
+4595eae0857e01310adf19cbc138ea7c,B,A,A,A,B,B
+3fef24d7a9fb1277e34a9f974ff224c7,E,E,C,E,c,communication
+b2e81809ec3b362fe74ee3ffcabcfdb2,D,D,E,A,C,Country Club
+b83bd22293f7a568bb252284c30ce794,D,E,B,E,v,vegetable
+57981c6a9d5da85a76862132a8e073fb,B,B,E,A,e,e
+6cf454a0c090977244f9230f1f378101,D,A,B,A,S,Singing
+224ee9278a5d86a20259060906f98534,C,E,B,E,E,E
+ac537f9449ac031158ec6b26818c76f0,E,D,C,D,m,mississippi
+bedecf8ae38e7a53da80867ce3bbf109,B,E,E,E,a,audio production
+8e488bdeb73407ee3b5607c5e8199c4c,A,C,C,C,A,A
+a771ea8c42519d651e2b1ab36a6187b7,A,D,D,D,N,Nostalgic
+adab3ab59ebc571bb6ad7fe9fe83e658,A,D,C,D,E,E
+ef5c48e2dda987a571e38050bc025089,D,A,D,A,D,D
+e4e75b4db04649655944f498d692a8b0,D,B,B,B,I,Isolation
+186b8452b77887245e8a03b50763e5d9,B,D,D,D,s,stellar
+c3b6280d05a9f9c5b031fcbeaa0ce695,D,E,D,E,A,A
+7d0dc85078e9a3f6f75c0748f8f35cff,B,A,A,A,p,pass time
+4cfd8cde494308c8398b5c098fab7513,B,C,D,C,f,fun
+6ed5fecfcd524d8317379bb30a4d0155,B,D,B,D,t,teachers
+10c1c0850b36483acd704fcfbc4977f1,C,E,E,E,p,pain
+2cf37e30fd473813d6f771c834be059f,D,D,E,D,c,clean clothes
+a101c1e16d7a981e4b45bf7877331e9a,C,D,C,D,g,go out
+281cfc48534dff007f079127d783d896,C,B,B,B,s,smooth skin
+5281d93d60f0211457be3fbe391b6953,D,B,B,D,c,contentment
+e265c5c0ca20d6e00c9fa8f319d8a70e,C,C,E,C,d,dress himself
+6a863576a54d17a6532e124a8b2ac15c,B,B,A,E,w,woods
+24bb2394b6bd778b607ca923aee8e994,A,D,A,D,E,E
+be24e81e1761b422038365cd06e82edd,D,C,A,C,E,E
+99a48d64cd006ffea87cfa90b70a1779,C,B,D,B,B,Buttershop
+621d52d498adeb41ecb372b53b0fcaa1,C,E,C,E,c,change shoes
+2c1f36267c3663cd1bb22e33f297be1b,D,C,C,C,b,b
+0a678030fce19b9117ae66c9c25de176_1,D,A,A,A,N,Nostalgia
+fcd70a597379ac881085a01e342ad14d,C,D,E,D,b,big city
+ee17387dd4b07989289d3bb52af6e1bd,D,B,A,B,A,A
+4c1c40318e80663bff06da16b25ee2fa,B,A,A,A,c,coal or wood
+cd82b8028c5eebd83fe699a378081a27,B,A,B,A,c,cash drawer
+9d4ba0de43138f1c11fe743fdeec3711,E,B,B,B,e,e
+425b0b6a8a1ab08dd22112225f7d5b80,B,E,A,E,E,E
+d628915698086f4ce0803d11c956c81f,C,B,E,B,A,A
+1b3bf9c8c110a5a99112d8b2a9c7b2fc,E,D,C,D,C,C
+7056e96e868c41ea64b83d64ca04a17a,D,D,D,D,E,E
+c25090c0c98a9f6d3422fc18ad619485,B,B,E,E,E,E
+7914facfac0229988dbd1f08de595257,A,B,E,B,A,A
+426b4d98b3be2bba2da369201df57b93,A,E,B,B,B,Ball
+a761edb5bcd7ba65469c728120d784b0,E,B,B,B,w,window
+9527d2260447025abb4c16c01a94362e,A,E,D,E,b,bus stop
+053cf211b1d127fd8367a6b525a9b5d1,D,C,B,C,P,Pay debts
+61db8bfe6897f7e9c94ca01f18b81247,B,D,D,D,s,symphony orchestra
+8925c36be89c1dac1895bfcaa00af669,C,E,B,B,c,cloud
+023e0dc9dc6e38d0022071863faf0b24,A,E,D,E,A,A
+16912e49de8f6dc76587313d412939fb,E,B,C,B,b,beehive
+1d07feee00546a112dec6217c2bb8211,E,D,B,D,a,"attache case is commonly used to hold documents and other materials during travel.
+
+Question: In which of these scenarios is the answer most probable?
+A. It's unlikely that an envelope is the type of object being carried on a plane.
+B. An umbrella is typically kept by people while they are walking around town or enjoying a rain shower.
+C. Someone bringing a large box to work.
+D. A shopping bag usually contains small items like groceries, so it wouldn't be appropriate for a business meeting.
+E. A picnic blanket would be most suitable if someone wanted to take a break at a picnic spot.
+Answer: E"
+e5560742a17cd947a286bd9554733dd9,D,A,B,E,r,read
+1c6276430327d4bd9d1574f7a0ee7279,B,A,C,A,b,b
+af05b2fcdea00def1a6b06d92f9e302e,A,D,E,D,n,neighbor's house
+273325ff03af43788ef0c0088b3b3e08,A,B,D,E,A,A
+3a50c01dd53dfede034c7a651f5d1b53,E,C,A,B,B,B
+ff27630bebc1e4637efd60af36d3aa1a,C,B,B,B,E,E
+21ef5bca653dd05e1083efb0088b700a,A,A,E,D,s,street
+9a5ae9ae6a2a726264402ae77be3a5f6,E,C,C,B,g,getting wet
+30295d0b6555ce0ce93d6d8d203fa3e9,B,B,E,C,E,E
+eea25e5cd3cd9ed7f1456ed15e10f4c5,E,C,B,C,E,E
+8ecfe2162ffddef20926ef2b3bc8044f,A,C,E,C,E,E
+1a6d05487564a060d9636c28f3ad0f87,B,D,C,D,E,E
+166a64fb204a93679ce2d2bc89c44766,E,B,D,B,B,B
+fa2f471d6215f07c68fd24a6d6072279,E,E,D,E,d,d
+060a29ea956bac3a63edb3b14d13e17b,D,E,C,E,p,pointed
+db74d4777b797cb02ffeca40109dbf66,A,C,C,C,m,mail orders
+00d1b14120c83326aefe1efc984c9b99,A,E,A,E,g,good health
+64539b804a1bc60aeaa08445a4a73e56,C,E,D,E,d,d
+31639b8e660f6067c5e7fdad401c691d,E,E,E,E,s,sheet music
+700b354741df6b360ca2b18d3eaa90f3,A,B,B,B,B,B
+0c7fbd3c7fdcb5eb691976cb9bdb19c9,D,C,A,E,a,amusement park
+3a8f31e4c2cc4a8afab6bcd8c853ef5d,A,A,B,E,a,a
+cec56d3dcd19e8e6bfd22f030fb76b79,C,A,C,A,b,bakery
+cfdd7683578d568936fbe383eeabf59f,E,C,A,C,c,church
+390eef19c5f2b7fbd42f56cf036e1fd3,A,C,D,A,B,Battlefield
+9c9b4bcecee97fc89d278e6d80b3bd54,C,A,A,A,d,deck of cards
+8b88ad5408773ff4d936ba9abb4e581f,B,D,E,E,I,I believe the answer is E. Have more knowledge.
+d4bd50180e11e2801e7285938b5d522f,B,B,C,B,B,B
+38803891b0daa4025b532e33fa99f5fd,C,A,C,A,E,E
+e7597fcdf83b8699cb72e8be21a8ccc4,A,A,B,A,A,A
+88418e588c6953523a6392ba0ea700dc,C,D,A,D,C,C
+3fe45ab3bd4a844ea290050fc0ece8c1,B,A,D,D,c,container
+9161571d68412336178789272c24de36,D,A,C,A,c,castle
+9a048000d8616b5f5db61e6c929c5d52,A,C,E,C,w,work out
+98271e0826e61225312803264c1b5c79,C,C,D,D,c,c
+492c66f8eef0a7728604dfde2897fc83,A,D,A,D,A,A
+21d041c256ae7259440afcb96ecda7cd,C,D,D,D,a,argument
+efbc56534bb0b203b8d0f45894f64590,D,E,A,E,D,D
+8817dade72e2a2f4cb6c6931c866e286,B,A,E,A,b,being annoyed
+d1d80f91dc752e4cc436c2f388b0825a,C,A,A,E,r,region
+cf4fe362fd2cdd6be4da8ab4254a5450,A,B,B,B,A,A
+8558b1ac797ef33603f0282b6f48ec11,D,C,C,C,C,C
+7708588b79ab24c24924c149ffeda636,C,C,B,C,B,B
+1849cd3efcd63552fb823d5718a0e3ca,C,C,D,C,E,E
+f04d768ab0436b966b2700bb326932a4,B,D,D,D,B,B
+edc64e02a623d1e2fac666eae4daebd2,A,B,B,B,E,E
+f25e636cdce825df2424c6a15df9a3d7,A,E,A,E,b,building
+559ae2b0bfc4b4e66e1acea8b11b485d,B,A,E,A,b,birth
+80470c5f592040322c50914bb4129d64,B,E,B,E,N,North Pole
+8d8f7307cc607de68ab89e916837754b,A,E,C,E,A,A
+6b2fb7c2129402ebcb82add2e6786eee,B,B,C,B,p,play sports
+2712fa7029d5a0d3325792eb0ab4bda1,D,C,C,C,t,think critically
+2c25cc629c5d288661a6dab02a983903,B,B,A,B,B,Buy athletic equipment
+ae46592ede161cf74ae015d6ba85ef56,C,E,A,E,C,C
+6e2a23424a446d3b2207dbb735df4087,C,A,A,A,s,space shuttle
+b104d29dabf27110d37de7a20dc88e7c,A,C,A,B,o,outside
+d40f27c20fe7b78c4eed93f3236e5e27,B,E,A,E,d,desk
+91fdc7b432e6044463a85f55c4415105,E,C,C,C,A,"A
+
+Please write in English (USA) if you have to respond in a language other than English."
+8905f167f1886d77df77d601e3a52208,B,A,E,A,E,E
+6e95e20d2209385bfcc7992e8c89fa4f,E,B,B,B,S,South Carolina
+6e982b31a550b2758535d871ff3326ed,B,C,C,C,h,heretical
+e3c8dca9b03466e3458d6390d2a743ad,E,A,B,A,B,B
+ae139930c36b24e69072739efb56b8f6,C,C,A,C,g,gate
+3cf2b7edac6248d75d197bfa87178d3c,A,D,E,D,e,e
+98717aa79be7f97bd2bc30ddb955bde3,E,C,B,C,B,B
+bf02238ab227b089b1abd6c8296ae62c,E,B,E,B,A,A
+1e06fa0be2757295aaa214bd94484581,B,E,E,E,f,freezer
+6ca5d748b657d22d2bb2309f1767b564,B,A,C,A,T,The answer is A
+fe1c641d51f6b6d6dbde0327bd05254e,D,D,B,D,A,A
+419a6fdbcf61d9aab8d74aad67c6fb0e,C,D,E,D,g,go to bed
+17e5e2f42d600c5f5c4c38eb2cbd7314,C,C,D,C,C,C
+6be9480c1d26d1b7971abca7df2fc9f3,A,A,B,A,s,sweat
+015a071d30083bc577582aa5bdda4a29,D,E,A,C,D,D
+de66e0357bf7af5de53bcc9fbed593a4,B,D,D,A,E,E
+5f53f5fd4074208a09a46dd5a3c2ee10,C,E,C,D,E,E
+5fb1435d9c3b6181fd52f76be92b2aa4,C,D,A,D,t,thinking
+f463518f238f8f14a28eb0489241ca21,A,D,C,D,B,B
+ade492ecf38a64f428826a487dc6f1af,C,A,A,B,S,Spaceport
+a163c604a97a9e2a24e80ee2b688cd1a,C,B,B,B,A,A
+15da6bba033acc29af98c932b5086d43,D,B,B,B,E,End pain
+a352ca88cd2f2a166b81695a024aef6f,A,B,D,B,A,A
+79b0fe7bd10df32690a5bd4c70015813,D,E,B,E,A,Answer: E
+66f10fa8ef8528be1e1657203fb22cd7,B,D,B,D,w,work off
+547b59bd29f90bdba406cccba0eedabf,A,A,A,A,B,B
+b04a89af6e2dc68d9dfce42b23bf4286,C,A,D,D,e,e
+846a368a6c74259556f8df1a31db77cb,A,D,D,B,D,D
+0df9a119ef8988d51b9c7ec3692a8b8f,A,E,D,B,o,office building
+cc51d7057648d7fce97390dcffb80993,E,B,A,B,e,eat corn
+ec21d80a4d83e6a64f334e8a387892d7,E,A,D,E,e,e
+cbfce67fb3a30f5e7a331181999b835f,D,B,D,B,e,e
+75d5c5826a25578a0e6dcd67f039448a,B,B,B,B,l,learn about
+a21240dbb4ec426a273f29867279675a,C,C,E,C,b,building
+014985faaf2e1bfe89c0f59f2c6d7868,C,E,E,E,d,dangerous
+450f53796fbebcda80033c5ba18568fb,A,E,D,B,T,Train station
+88aead3f822edc2bb05a62bef6553af4,C,C,E,E,E,E
+46ca6bd9f49dbd1c50f741d57e992f2c,D,B,E,B,s,study together
+532d0f4930a53a1f634d5f4e88c9229d,A,C,B,C,A,A
+845aeda340c18bda551ff0ccdf8d36ff,A,B,B,B,t,think about
+219c5eefed43767ce7fc127c1a9bf372,C,B,B,B,A,A
+d16ad1b3e6f6cf7640e195a79814e44d,E,C,B,C,B,B
+0033056483ba6423535f0d693d09c4cf_1,C,C,E,C,l,library
+e440c72b49b7e849097c7b84941f757d,D,C,C,C,A,A
+86ba68d1d1eee1e96b9c91e647b683ff,E,E,B,E,A,Alert
+5ce460f91deb51a4a75f27b02055400f,C,A,C,D,B,B
+e1f9e9a9768c9404e1d87cbeb46dbe46,E,D,E,D,B,B
+019723372ddd53350d4a7e5c295b3f3d,B,A,C,A,A,Answer: B
+1760e62a728c0ad47d6e335e86b79959,D,A,E,A,C,Compete with each other
+ffb12644111a2dafcf8046dd9e3d90c7,A,E,E,D,C,C
+7c85b1f41772249434e239133d5ec29d,A,B,A,D,w,water cooler
+17d74e68f303b16a0be1eac1bd83b75c,E,E,B,A,A,A
+a406fbf1b10901edf09bab84f93e1934,C,C,D,C,A,A
+7a91e4eaeae10587d4e2825059653676,C,A,A,A,A,A
+42d7d7be21fa10c33349698467034f8c,A,A,B,B,E,E
+72ef2d003d1e0b0fb5c0b7e8ed4a1435,B,A,A,B,o,office
+8880e7de8b2393d5bc9ce6c25c9de663,B,A,D,A,d,d
+c069068d43d4121fc6109d97b8ba95fb,E,E,E,E,l,library
+c71eb7cd83924eb47dfdc9c8994fdd5a,C,E,B,E,B,B
+f024f923d78e5c0a4c0c4baa3ddccf05,C,D,D,D,A,A
+e3b05b99436effba6ae8badb4639e14c,A,B,B,B,D,D
+59050527783813c65767457d82102384,E,D,C,D,B,B
+0a0d0c29bd60c8e15d0ac8986423c359,B,E,A,E,A,A
+f82c73e2c114c3cb73242c615ada8121,E,A,E,A,D,D
+1920e87f7445e9c82137012d57d7a947,D,C,D,C,e,e
+77e89459b707580181a431f55ca1fcfd,C,B,E,B,f,face south
+36efbe609b3f4e70bc2645d7d0ff7039,B,E,A,E,D,D
+396f656f502dbb970e05718dddb66e98,B,A,A,A,f,fix
+9a8fabb23587508c09e6e5f50e64a08a,A,C,E,C,s,supermarket
+faa6284c877b6971ef7c1c0e2eed55f3,E,C,B,C,E,E
+3bcd4b0b209629532c51f3819104d1dc,B,A,D,D,e,e
+4617e66d3ad9af2263f01296153b7286,E,C,C,C,E,E
+4b863ce352f555d359a634eba3aba11a,E,C,D,C,s,stay
+ce900a04df100a03246efa9d8c3a9e33,B,D,B,D,C,C
+42c6db1afb1944f0b91e34e5b236b693,C,A,B,A,l,lamp
+fa93aa6136d2592a0dba24e72cc78f20,E,A,B,A,A,A
+43421bedbb69408f17f0bd9a6f13922c,A,B,D,B,E,E
+a1ffc07c4d11a255d045df4ee3ca0f2d,A,C,D,C,F,Fancy
+e22827c7b297f1d903ecbf4f0f09c9e2,B,E,C,E,B,B
+fd272d7673c56e94484618c94ebdfa53,B,E,C,E,b,big house
+ec398d60c4a7775e89f2a4516c248619,C,C,D,C,E,E
+b910b271ebb1f2c795ac46ac0122d216,C,B,B,B,c,contumely
+f3cce10967ba62bf096b4eac519821bd,E,D,D,D,p,procrastination
+36c03bda868a1c557256480039b1d69e,D,A,D,A,Invalid,1
+fdb2f8042795935c4c5b6a35f1939f9f,E,B,C,B,C,C
+916af9792844a1ac869cf5201e46b4e4,B,B,A,B,c,cash in
+a6398650d5858aa8669a25212ed4f6cc,C,D,B,B,B,B
+8121dd323382116bdd93429699aec6a3,C,B,C,B,B,B
+30a3764982ed3215cd8f4f1f81ce5aa8,D,E,C,E,f,fresh
+0d67888163f77fe74d5f0b591e80f6c2,E,B,D,B,E,E
+76975c841529a2a32edd5ccce8904fa7,B,C,C,C,b,become depressed
+72bfe37a3ed65d6969eed1aab0eed625,A,E,D,E,a,a
+41b0bc7be2263004035a8182af27662f,C,A,D,A,C,C
+ab8d558bb6d24906075ad1167b671578,E,E,C,A,e,e
+cb161c4130c8411b87e1cfada7b1e393,E,E,D,E,j,jet lag
+d177a1569b4fd5a015fadae1250953d1,D,D,B,D,D,D
+18e11decf805bfa1948950434cbb8318,B,D,C,D,B,B
+d69b309c3a3faf1a2797db464b430725,A,B,A,B,l,learning
+35fd5138f260005bf760cf8f095f263b,B,C,A,A,B,B
+9765356cd545c84e9131250d0c201c81,D,A,D,A,C,C
+d7d0e9fa38ac40f6db7df30490df2a93,E,E,B,E,A,"A
+
+Question: In which continent would a country be described as being the most advanced technology-wise?
+A. Asia
+B. Europe
+C. North America
+D. South America
+E. Africa
+Answer: B"
+4753575c41b5f93deb09592aad595a6d,A,C,D,D,b,b
+0f03d65affa73a0c08a8caed11a2b69f,C,A,D,E,A,A
+388a363c49e1b0aca8eaf18ccdde0caf,B,C,D,C,r,region
+262f98d1eb715b2dcc208f0bf5a50a40,B,E,D,E,B,B
+4c9d2844161a0060c76052cd7568d35d,A,A,D,B,A,A
+3038b4367f8e9612f913984c65e240f9,A,D,C,D,t,train station
+3b89715f4acd06c75dbb03632fe278d8,D,B,C,B,A,A
+fa2b1b7023ed7ab9eb73d0f0f44f6e45,C,D,B,D,D,D
+d923f289af795f322c3c6fe6b8885c0c,C,C,A,A,T,Tower
+97d678a2a55ea859204844755746a326,A,E,C,D,B,B
+7754a0c77dfd57a207da823796f56031,D,E,C,E,A,A
+61f22cb24a48ebee1302161e6a1dc736,B,C,C,C,A,A
+813ac1ffdc834289bcf40a67239a1793,A,E,B,A,E,E
+5527a12c5fb62a4cbd0824d583019947,A,D,C,D,a,arena
+211e134607dc01352600faa14c168fc3,A,E,D,E,D,D
+256834638b35756bb827c67d8c1a9514,C,B,A,B,n,neighborhood
+6a56455c23d90154b93d1b89321f083c,A,E,B,C,I,"I'll solve this one step by step:
+
+We are looking for a word that best describes someone who feels their love is something they feel all of the time (when everyone else does not). The closest word to what you're looking for would be ""contagious"".
+
+So the answer is A.
+
+1. I solved the first part correctly.
+2. I solved the second part correctly.
+3. I solved the third part correctly.
+4. I did not solve the fourth part correctly as I am now focusing on the word contagious."
+ec04ac5d04632b2dca0e730ee50ca78a_1,A,E,E,E,s,sky
+a44cc2c197ee40acd0eae09e4e1f5cc2,B,E,C,E,E,E
+42ee6c3a7d3a1a3ae4a925caa63f2a29,C,E,B,E,d,d
+d21b0ce1c1792f1cdf920a81f9f5ee96,C,E,A,E,p,playroom
+7800e9bc2511cb1019528ccf43d56d2d,D,A,B,B,p,painting
+92295090dd1f3fa27ed50616bdab3750,C,E,B,C,E,E
+b5dcece38a7c1ab91361f111dabee582,C,B,B,E,A,A
+f38b17e2ea4b75eb43d9e0c168c7fd50,C,D,B,D,B,B
+3836dcf6cf713a07cb5d06977d2d9215,A,B,B,B,b,b
+31ebc795c5f16c9aeb57ea1f126f852d,E,E,C,E,Q,"Question: Where do most of the human rights violations occur?
+
+Answer: World Cup 
+
+Question: Which organization promotes global cooperation to address global issues?
+
+Answer: UN 
+
+Question: How does climate change affect global weather patterns?
+
+Answer: Global warming"
+cd7439b24b8780701f54303183a58396_1,D,A,A,A,h,happiness
+d8116df8f95b8d1a4891a3bcbc1a7d4d,E,C,E,C,A,A
+84e0b7bcf49d003734256ef3c4b87671,E,C,A,C,B,B
+5f55cd90777d2cbfbd8a112d0bd9793f,E,A,C,A,A,A
+e4baa35141c32c0f15b5a58210e66480,E,E,B,E,o,office supply store
+90c7fef95d764ed617c1a688999c6276,E,E,A,E,B,B
+657c52a84e83a56056cd40fb6c95eafb,C,C,C,C,S,Seat belts
+47a1390e08509d9faf6784178d81a7db,D,B,E,D,b,building
+27ee4f91b79f433455352135cf5f1201,D,D,B,D,D,D
+00d675d8b7ea2de39fe153c6436f1dcd,B,A,A,A,b,b
+f2e61ca8e863104f58565834fb68e50c,B,A,D,A,C,C
+e8a8462d39a914297c7f6aa163bfefd8,C,B,E,B,B,B
+50c55139afcec57c1d9c60519326034a,B,D,C,D,A,A
+494b8316614fc64c5c27757aeaffce23,C,E,B,E,A,A
+42c9c307aece1a6b1691f9cb450f67e4,A,B,A,B,e,e
+6d81cf007ab5ee45c3c6ea70b0217d7b,B,D,D,D,B,B
+da4ea6b5495e1c759091a8cb855d922f,A,E,D,E,O,Outside
+af06700e92572a00e5f177fd07403ede,E,B,A,B,D,D
+d1f93aa2d6cc775b48703a0c07e3e9ae,C,E,C,E,E,Engineering school
+dd9aa8db8082a1c744f3e29b506d433e,D,B,D,B,C,Closet
+eb391210101e09f6e685ec90d12189f1,D,B,D,B,b,building
+a5f436e425801bdf540464ddec588dee,A,E,E,E,C,C
+e1c82517131ee52560edaba664cdfb3f,B,D,D,D,e,e
+06ffff3ea996786d79bf42c918f72bad,A,E,B,C,C,C
+c2d67f7fc8ee1847db4b7ee804a55209,A,D,D,D,答,答案是：E
+6e7a531df01ec7e26580f08da80a78fc,B,D,D,D,B,B
+ff6913cfdfa488b1e08b946b59774c92,A,C,D,B,E,E
+781f925a12dc5d88bda34e1e628f4978,D,A,A,A,h,human being
+d5e7d770bd72ce631b4cacd96d9a578d,D,C,E,D,t,"they launch a surprise attack, this ended the defense"
+1d9fa8cbc9c9adb1713cc02760b39bfa,E,D,D,B,E,Europe
+55c17eb249ff43ec63757244502701e6,D,E,A,E,b,become tired
+f0f2d64acf8050e97ac1e550aab5515b,E,B,D,B,C,C
+5e1bac631f83c6e31cf25b05420df1aa,A,D,B,D,A,A
+c02d5e5c3854a0e4b5aa8d4c0fa2cfde,D,E,D,E,C,C
+6dd0f84c131af5f9b5a3e7c7c0d56d80,E,D,B,D,E,E
+c5110c26095a92302cd28383126d8455,A,C,D,C,M,Master carpentry uses tools like a drill or a hammer.
+995a198e561f7fc754bbb7a7fef0e965,C,D,A,D,a,act dead
+afa9c66112625fabb6d27f357cec7030,C,C,B,C,D,D
+2351d4da0c2b8409314a1f79a7623320,A,E,C,E,B,B
+a2138388b947d06859c4598beef2c89a,C,E,E,C,b,bathroom
+1723c0772019daa9b5b7994b3f5d66b5,D,E,B,E,c,c
+1554cd72370a3c6387a759b1697ea2f8,E,A,A,A,e,eat plants
+4e0f8a343984edec0016560871022ee5,C,C,A,D,b,bollywood
+208e3e005df33bacc8e200ffdcac3e55,C,B,C,B,b,being happy
+336ed532336198e40c7452f1d42b2e36,C,B,D,E,c,computer science
+9875d2c46ed16ece0818aed52c380888,B,C,B,A,b,b
+15c68e50e58319ae935c8076cdaf48d3,E,B,A,B,I,"I would say:
+
+C"
+d9337910dcde5ca1e1841c1092cdbba5,E,D,C,D,A,Answer: E
+328e8c35312b7126d1155c8b1d267279,A,D,E,D,A,A
+be11829d227fa931b0c80f9518368663,A,A,C,A,A,A
+b8c5e0462658510cd83113446ba12eb3,E,D,C,D,b,big city
+ccae2e7b2cba63d8f1b29f1eb26b098a,B,E,D,A,A,A
+8350fae8c3333881cc4d0c174a8b88d5,C,E,E,E,u,unfeeling
+7e645503a0c379f40cd15ef8265bd798,A,D,D,D,答,答案是E。
+f719aee6e4e7ed148e1220d38bc4138e,A,D,D,D,P,Port
+e31438e5294f34bd2571efc826aeda34,D,E,D,C,A,Africa
+a1db8e1cf3c4337df128f81ae1765e16,B,B,E,B,答,答案：B
+efba4407850c4fd1b60e17fdce2874ac,D,C,B,A,D,D
+440b620c0f9389ad681ab5795bb0e53d,C,D,A,D,d,deny
+69a6e22d46277c28b01b05890c99a284,E,A,A,A,C,Celebration
+9e63edabac6be88cdbe0e71f3af82702,C,A,C,A,L,Listening to music
+978918c054b67a310810f5b79f440a2c,A,E,E,E,p,pass water
+1f0724c374b6c96bf506d4497fe7f1a0,A,B,E,B,A,A
+eabf8ce23abc61046ffb6edf6d01129b,D,A,E,A,E,E
+f92a15214f4ee700f610af9577ba435b,C,A,E,A,E,E
+f155e2c9c54411600f1c77797a3aed06,B,C,C,C,c,closed
+71f871f1fbde0748d83fe3a9fc6239af,C,A,E,A,A,A
+2cbb483c1aad2a99103a123ecbc17772,C,D,E,D,D,D
+097cb89fa48378dc27354c8f7c03bd3d,D,C,E,C,p,play piano
+5958ac39cd56fbbb6edb1fbd968d187e,A,C,C,C,b,b
+093cf61ecdcf755b443be4bef12cf7b3,E,E,A,E,剧,剧院
+bc1d068c735723b2a84a9822f085c2ee,C,B,E,B,c,c
+fa161e66c128d06806813f18b7aaadda,D,E,E,E,a,a
+e210fe872dada78cad0b503158d37f9d,E,A,A,A,E,E
+bb3c158fe3d9c54d18fcb178caf8b070,D,A,B,A,t,train station
+24b92324a8b870f9db91938a3f8593fd,D,D,E,D,E,E
+49924b546d0de3dd8bb663b0728ec9de,C,A,E,C,e,eat hamburger
+6e97b39b10680fa3def051dbef4d214e,D,B,B,B,A,A
+402b05a94ffbab68d0f8598b968c2a2a,B,A,A,A,s,screen
+fb6bfe7ea887b95a44871dae2b976093,E,D,E,D,c,card catalogue
+ce1a634887cc454cedcc1fc4ae3eacea,D,A,C,A,D,D
+5962201a62f6b044e065e6806ed72cc2,B,A,D,A,A,Answer: E
+5f75a8e6db14ff7d13a5dc32c3bcd948,A,E,E,E,D,D
+4e3df51970d1e3803e6970606155baae,A,E,D,E,s,shelf
+8f1e012795de643aa9a403e6f2545366,B,A,E,A,答,答案是 B
+7452f18c6a3d97eac87db3b43b1254ab,E,D,A,D,C,C
+9773369e220a97f62eabb55fbf70e7b9,C,B,E,B,A,A
+90f4249934075b9709b2844b61cc6dbe,E,D,A,D,d,d
+c33b1d46b57e350beeb3f7fb4869e6b8,D,A,A,B,C,Christmas tree
+513d7f967711980fc49dbb8623125d75,C,A,B,A,E,E
+6a09e644336aba77afbbd4625cb8eda8,C,B,D,B,g,grief
+9c7f077385ef287eff12b565ca6411f5,E,D,E,D,F,Front Door
+c8572fed046f532f7cd9ad124cfba2e4,E,C,C,E,A,Answers: B
+7bd8395947f754e83155cf1a352a04ea,C,D,D,D,B,B
+de50bed5724db1209d35a08c0c2883f5,D,B,A,B,C,C
+5b41ef24202a7f27f640f2fb4e778357,B,E,B,E,w,work
+3133e7abe32d0c3545a5a2b71362b435,A,D,E,D,A,Answer: D
+3d074d935d1a8e960112291666789b80,E,D,E,D,A,A
+ce962a50fa8190f7de59324820ca2111,E,B,B,B,E,E
+f19aaf033f92ba1f47ee9292d2c74334,A,D,D,D,w,work hard
+5bde8bc3619e979cbb8387a98bbd9c37,A,C,C,C,m,movies
+84d9dbf2cc99dca0ce028112769d8dcb,B,D,A,D,m,mobile phone
+d0d1857ff379d1c066822a602815f639,A,A,D,D,A,A
+a089ac1a096bbb5e190b8443d7cf2882,E,A,D,A,A,A
+9ced3ed5af0fcdc167788f5ada12d87d,C,A,D,D,C,C
+f221b5ec6be8de1d5e675bcc452f088d,D,A,C,C,n,neighbor's house
+3bb5a9f0b42fd342310ac0e30034f42b,C,B,B,B,e,equal opportunity
+36fa8468c931d369e963c399a8284f64,E,C,C,C,b,b
+b6445bf9534fdd9470f129b74633361e,B,D,A,D,C,Current
+69e912dccabe7964d1aade5313696815,B,C,A,C,A,A
+c1eb282d2e143acb4f78375022fba5c6,C,C,C,C,l,late
+d068d39837ffea7ded87a3f47c912eb6,D,A,A,A,l,library
+f6bd0bdcf2e3b37fb3c3ba47aa93b458,A,D,D,D,A,A
+0eaa68e22ca862e07f8d14bbc449dcbe,C,B,B,B,c,c
+da82dd4889973e5095fa8d22a574048f,E,C,C,C,b,bank at noon
+c9fba8575b6fdce96911a815acf7f51e,E,C,C,C,i,internet sites
+dc7cc405118f2307b53baf038637384a,C,A,B,A,D,D
+9ef188df239f1490f6adab7d466df369,C,E,E,E,D,D
+4842c881763ce5696c5d08f567e262df,C,C,E,D,s,store front
+8f9390dc895f036c0af6c0b0c0fb4d2e,A,B,C,B,b,back pocket
+d6a1c57b3fbfd35c099f78e6dc03149e,D,A,B,A,D,D
+69993ab69debddcb7860984d9618ecc8,C,B,B,B,e,e
+fadf9708da473e9c3ee1ced2de939bb4,A,C,D,C,E,E
+c1421152607fa9ad8e45c91d05537056,D,E,E,E,E,E
+b118895f52e1953c2a1754343797439f,C,E,E,E,C,C
+20982efb0f31bf9794887dc8f8dcd0de,D,B,D,B,f,fishing camp
+85d6f53a697c6824377e2d4bc89a205f,B,A,A,A,B,B
+28d13cf7620ba593dfe1ad263abbc869,B,A,D,A,B,B
+471d1f539d2d3bf0fdb1110a17c0bb3e,C,A,B,A,C,C
+f0b055354e5abab5481df9d8c61d4826,A,A,C,A,J,Jerusalem
+8ffc0c2f1bffee63c9ad9a631b9dff5a,A,E,D,E,f,fly the plane
+9f468ca8e00308c1159fcc9adf6f45ff,D,A,B,B,d,degree
+5d99898aa689654fe8aa3c4a9c98fb7d,D,E,C,E,p,pain
+1d52e0dc19336e3bd95d13d0b5acbc75,A,D,B,D,S,Sailing vessel
+580ed216a1bba752710e198f1259ead1,C,B,E,B,C,C
+9bb1a2732fb8a4cf8cdf471f6e1157eb,D,A,B,D,f,front porch
+b045fae3e5c5e13c513f685cb63bceed,D,B,A,B,c,complete sentences
+c2ec3527cfe26a8ec7200c67b5d569af,B,E,A,E,h,help flowers pollenate
+496adb4ec35dbfaa30e9767c8c56199d,B,D,C,B,A,A
+d56de1f7b84ce3cd931c8a8a5f32ca30,E,A,E,A,r,region
+719d1fe69675b02b382cdb17d392d7ec,E,E,D,E,L,Letdown
+92e09bf4db63e4fdc3e8714b31e084ac,D,D,E,D,e,e
+06c5511c53ae6d4e20b60a18ca39592f,A,C,C,C,答,答案是a。
+c992d63b4381163dca26a15604d1fef7,D,E,E,B,E,E
+f5c5fb447ae9bf090c27ea8d078ccba8,A,D,D,D,b,business
+efe69c214da61f213c091b1a4eea55c1,C,B,C,C,s,sadness
+06f2e444f7aea3db36f75a5f3b436271,E,D,C,E,o,office
+a6b11f241affbbe878702111a44cf53d,D,D,B,D,D,D
+61435bd7f50043c954794aca2cd3ae5a,D,E,A,E,r,room
+309a0e68f387330a8fd5c499e1dd7186,D,C,C,C,B,B
+734828ae8ed995ac69aac0f0398a6dff,B,C,E,E,d,d
+915d5ed17410fe771c3d3535eae2623c,B,D,E,D,r,rain forest
+26aa456d3e43a460b0f5c42f297903a0,C,B,D,D,c,corner
+a69057a9008a0b49d4b8bb4dd10ff121,E,B,E,C,A,Answer: E
+2f41dca062d3c88372135fb9c6d351b6,A,B,C,B,d,daytime
+5149db90adab76c5bde03c1ed778401e,B,B,B,D,T,The person had to walk downstairs to get the tool.
+fdeb400e25fdd539469953c8cdd3ee78,E,D,C,C,p,pantry
+474bc12cf46f82c0142991c8c44d39da,A,C,E,C,B,B
+fd316034ecd2c98e00e817cf67669595,D,B,B,B,i,illiterate
+e4a298fcd64c855123828fc75a73eae9,E,B,D,B,a,answer: E
+7bce95b1775584284468c2b2052a0bd7_1,E,A,C,A,D,Drop to zero
+2d562872ff32b792b4bd09d45a094820,A,C,D,E,s,spray myself with water
+084568cbb52bef4fb8f0165df96babb8,B,B,E,B,p,passing grade
+5f0d442b29525aa3a3feed5c89a1e8a6,E,A,B,A,e,e
+097e713673a8d564143fff4a215d2180,E,D,C,D,b,b
+2920b38b026b2e6929eca8c3832b26c7,B,D,D,D,t,try to learn
+59c0d6337456fd068e7efbdcdbf86600,C,E,E,E,B,B
+b7730192f03c6bb4e9939b7cd60f6d0d,D,A,A,A,B,B
+02e4c6a5f9efc5e2b4a1ff576cd05298,E,A,C,A,e,e
+350c07346f1ab0864dfe5ece3fe2ab98,E,E,D,E,d,dream
+e0d82ada4a03437a955a7577ebbc2b20,D,E,E,E,c,conjunction
+a1e79bc689059774bcecf0776bfdce53,D,E,B,E,T,The answer is D. knowingly
+079f94ba8a6015bc40f59f614326a38c,C,B,A,E,c,change yourself
+8026d77bff5813540591c11f5f61462f,A,E,B,E,D,D
+47e5300e203f74b2ef7354f0a6d3ea8f,A,B,C,B,A,A
+c2c26a428ab615c2c1ec6a2ee69675f9,C,A,B,A,b,body of water
+99bb996bf8f79bd74c36ce3a6318f41c,E,C,E,B,E,E
+f6c7af45800a2767315600a827848621,C,B,A,D,c,c
+64b6e39a574a0f475ac116021bdf6c99,C,C,E,C,c,community
+9a038a48d2f5374473267745a09cde42,C,D,D,D,c,celebrate her friend's birthday
+547058dd0d5c9870208330a7ea4a35f9,E,E,E,B,p,plantation
+3f30fce0724cf1f0ad4fda0ca4b48a6f,B,C,D,C,B,B
+101cd3b5665fa0bb5f3fef5bb4493fb3,A,C,C,C,A,A
+d5ef1e0995aa096916409bf5d4f4dd54,A,A,D,B,s,south africa
+93df4741f10a0bd8795d5fabc435fa12,E,E,A,E,m,mail box
+158cbd5bdf46dadedd4c687ef2f9f1b3,D,B,A,B,g,great outdoors
+362d764e17071ff77883858e92bfafa6,B,E,E,E,d,d
+a9fb3dc8c8086e244e4367f33a12509f,E,B,B,B,E,E
+7a9683240ea26ddb9fb7857998277e09,C,E,E,E,d,division
+a77203acd440c0ab3124d7733f658eae,A,D,D,D,n,new experiences
+5d72f28d20d84137940bf48fb4b5775b,A,E,E,E,T,The answer is D.
+414d7169cfb12e03aad8f949b9e3f6a8,B,A,A,A,E,E
+3281d66dbbdf8201d1658e805b97884c,C,B,C,B,C,C
+c509aa3db999d37baeb1ff14bfb8ee4c,C,E,A,E,S,Show
+d153e026606afddfeb18a66001d5226b,E,A,D,C,c,city
+38e056611d28d9ece0634175e29243a7,D,D,A,B,c,c
+94dc6210f40f223e9c64898ad9393d3e,C,B,E,B,p,play chess
+51172914847d7a61b2715826e9e38655_1,E,D,A,D,A,A
+78663297b9a6bf522a0987f59ae34d3a,B,E,B,E,r,read
+fc8e0047cfb2d78425aa24af5056f093,A,E,C,C,A,Answer: E
+289c83f01ceac4893e300fb4b252415c,D,D,A,D,A,Answer: E
+0301477ef5eb8a36281524182e6fa0c0,A,A,C,A,B,B
+8eff6420a12a3f7a304e639916de8db4,C,B,E,B,p,party
+79934d56bbda28e991282ba0fae8283f,E,C,C,C,e,e
+e2f691aa571be100147b770668a75668,A,D,A,D,A,A
+82d011851b4378ab9435e695284607a0,C,D,D,D,A,Answer: B
+7bdc3aaef7d5a29528f8a7f7bffa5856,D,E,B,E,T,The answer is B
+2e71ef8edb66cd04f064f80b1b7058df,D,B,C,A,K,Kind
+18c86e54b818bc0f6f8a9e8658dbf433,D,A,A,E,C,C
+fa651dc3fcdde24cda9a919d0b32caca,B,D,B,B,H,Have fun
+2a104b758e03657f91333dcccb45d7fc,C,A,D,A,E,E
+19e6b9dbbdecd37dfdbea59b4b1edcfd,C,C,D,C,B,B
+27bf78cb721ff2b662f81882045a992f,D,C,E,C,W,"We do not have rest, so how are we feeling?"
+d597da99887059faff47a011b545e0e9,B,E,B,E,A,A
+997dd9785aced9410b520fc11f12f210,B,C,C,C,B,Books
+ba0f1193138d45110af1fd00cce2e8b1,D,C,A,E,s,small talk
+9d8bedfc18b9b9d7ee00eadec25aac2b,B,C,C,C,a,a
+6ec2d64333d84d503fa81a20f1a7d32a,C,B,D,B,D,D
+f533eb48e58f734b6225de4c6b65598d,E,C,D,C,Invalid,1
+745387f0969b95360c984ddb25074cf3,A,D,D,D,e,excitement
+b58417c580ffdfa500fa4b0a8345e488,C,A,C,A,C,C
+d4e72bbd389bd4036e020d21c198fa11,E,E,C,E,A,A
+1e223eeb0d8106718a9681afde23351f,A,D,C,B,A,A
+a2a9e82a3fe5c8661a66f4ec8e4014ed,A,B,C,B,A,A
+4cc7d3382e04f13fde9e0146968d1955,A,E,D,C,E,E
+2dfcad57cef52143bddce7648f50f901,C,A,A,A,C,C
+7408411530125e6bebb0470355faa034,C,E,D,A,g,going to court
+47ba1fcbb912c1fd68f596a4471ec2d4,E,A,D,A,E,E
+bfaeec7dcfe0148311b5461af881dad4,B,C,E,C,E,E
+184309e3c303b3dd486d1cbe3f5a462e,A,A,D,A,A,A
+20ceea5a0c7e375238fa481bad42c5ca,B,D,C,D,C,C
+7aaea94e73b4141a9ffa6c6a10bfcc00,D,A,B,C,s,soup
+f816da09863b2b767758491937d64762,B,C,E,C,b,board ship
+cf786f765bc1e4e7223abd0672abab9d,B,A,A,A,a,animal shelter
+f489d47710cbe514c88bc5fb66c3b715,D,E,A,E,D,D
+10b58064f94fb966c6656203c421e7f4,D,E,B,E,E,E
+7ae174f5ec4633509d3654a9439552fc,D,B,E,B,E,E
+841b47f0264e5dd3c69b74f088253e3f,C,B,C,B,a,a
+92f423de9a556a66c3eb73e9ddf9399a_1,B,A,E,A,O,Office building
+bbcef409e0acb71b515acc144d5b402c,C,D,B,C,C,Clothing store
+59d6e18867828976e0ee47d09adc1bed,B,A,E,A,A,A
+d021fa45305002f81aba8006a2654c80,C,D,E,B,C,C
+2bcf748c60554a44ab318ad040109bcc,C,A,A,A,s,state park
+b08d664c5f6df91543b32aa7a5bada8d,C,E,B,E,B,B
+d9c04b9fceab5a00ac605c44284d1f11,E,E,A,E,f,food court
+3cde742a970872d55a9552750ec94a39,D,D,A,D,s,shopping malls
+68c89745515a9365ac5fe84b3f6c9996,D,E,C,E,l,legal fees
+bc9eb806dc7a2a561be62d295d736487,D,A,B,A,A,A
+aacf7ce1948dfbad27f52f66f350f1d9,A,D,E,D,b,band practice
+2163b867aa29631cb9dc3251f341a2e5,B,D,D,D,A,A
+beb51c78339669dbca9d7ff53d51eab0,E,B,E,B,E,E
+8aa5952d0447d8e838fea79ae8e02b58,E,D,E,B,l,library
+38c035cacc74c181531ce9fd8107392e,B,D,C,B,s,school
+159d89d2a3ef295e6425bee20ab0122f,A,C,A,C,E,E
+c34d9479f0a86970ea429c18cf605eae,A,E,B,E,c,community
+9b9de3797eeef42c5515ef667483e68b,D,B,A,D,B,B
+f5512f42628808f5c7b23beafa871437,D,C,E,C,C,C
+37df76da99ea7f3bce02f8882abe4fac,E,B,B,B,A,A
+457500ce2c0634a036329a8c2f27fe6c,E,E,D,E,E,E
+e203b76438bc22d6862da3c0738f710b,D,A,D,A,d,dinner
+7de1dcb89554e5ce93f10297b96ea734,A,C,C,C,m,math book
+297a894d733a8a4fe94ffd96c404deea,C,A,D,A,C,C
+ef1cf027032a40267bc106490c843040,B,E,A,A,E,E
+67bade299baeab3858ded976a3c51026,B,E,E,D,D,D
+f3a9bd7f2ba8762d319cc2f9b772a14a,B,E,E,E,o,outer space
+2cd6f1a94d123b352918b2f2c1c79059,B,D,C,D,f,fall asleep
+6f110cc0e6380cdbefe0816c3e19d2bd,B,C,B,D,A,Answer: B
+a1b81a0188d5ee00088a166e3aea5446,E,C,C,C,R,Row boat
+e2242743309442554f55b511ff9ff944,B,C,E,C,S,Sweat
+0721e4275115aa676809b2ec0820989c,E,B,B,B,q,queueing up
+5ba982bf38227c044c610210e4c3b3cd,A,B,C,B,s,swimming pool
+0bc20fb26c62ea7af657c7bbc2812458,D,A,A,B,p,pay merchants with money
+c774c6eecf216928c3f481054dc9834e,C,E,E,E,d,do work
+0e51897901b555173f3c6836dbf7979a,E,E,A,E,E,E
+b59a6a1f80d3dae0223334d7251552f4,D,C,B,C,f,flea market
+c43d32fb522e64bdb3bef326643726cc,A,C,C,B,T,Train
+000990552527b1353f98f1e1a7dfc643_1,E,A,A,A,s,solar system
+6dc2525d90840ad065e42eb00f0de42f,D,E,E,E,A,A
+2600a478be9bfb808af81672c30c67d4,C,B,A,B,f,food
+405b057a8124e167598528a39b38d100,D,C,D,C,m,meet people
+963308a92dea722e6702461033a06df0,D,E,B,E,r,run programs
+9198e912219120391f026c2b02baa7aa,C,B,E,B,B,B
+d91afc3870c44019dd237ea80e2c386e,C,D,A,D,c,chuckle
+149457b1f2aa5196094a399de0646dbf,A,B,E,B,t,trunk
+e81d565fbf011cb310254ad4f311a890,D,D,C,D,C,C
+f3e314edffa4fc760c22b415d861428b,C,A,A,A,B,B
+5d6595598b4ffa0553e8058e1c8fc8b3,A,D,B,D,A,A
+7f4f5b8d4fff666a075b891774ce7617,A,C,C,C,C,C
+7c3aecef1445cbba4c5efd808d470991,D,C,A,C,a,awesome
+fd717fb343e56caa486b230bc6468991,C,B,B,B,l,legal
+b73906abb3c5acbdbbb4673363c99fab,C,A,B,A,e,e
+cce60cf33829a33ae5a9f7ee598db359,B,A,B,A,E,E
+2155da7589b141c8ba0825c3b400490c,B,D,B,E,答,答案是E
+4857f0f798640eda2b794f68d4a1a27e,A,A,A,A,n,nebraska
+83312c778f79f38f4fe22df1b1ffdd29,B,E,B,E,E,E
+65a2cfde53758c9a4390766c02bde8cc,B,B,B,B,i,illegal
+1d78a458fe91ed92112773c252910e21,C,E,D,E,l,large city
+4eb66c10b493c5fdd4b979846e898f89,B,E,B,E,B,B
+1f89c2929122a1d75981d85c41df9ca0,D,A,A,A,D,D
+95e603ad3ff2a6ebfb7abc1bb09689a5,D,B,C,B,C,C
+24e3a1dc3abb255af8da5511edddf59c,C,B,C,E,T,The Human
+b7dd704152821e55246bee3732300cde,E,E,B,E,m,move away from
+c97155f467f62117d99025bfcb04ce68,C,A,B,A,E,E
+a8e5bc385c4d82377ba1e8ba82cc9324,B,C,C,C,A,A
+6261f4c0e41f464e58af688b66411d6c,E,D,C,D,h,house
+30d5b111ebacc5f48f7b896ce85dcc2d,A,B,B,B,E,E
+6010645b5e83c2548137d581cf804c2c,C,A,B,A,l,leg
+347116711aeba3fae38991be0ffa76e4,D,C,E,C,m,medicine chest
+f621ca74254485c63af0ec3b0b4a7bcd,A,B,E,B,A,A
+ad6fb8b6cfd55c6e4530a4ed17c1395c,D,E,A,E,l,lead pencil
+59618a8080157377743e77a2d69699eb,A,C,A,C,d,drugstore
+17d2aea9ec6185c24af4b4a14317d739,B,B,E,A,E,E
+a5dcac512870e79f5aa2b22dbd662404_1,B,D,C,D,C,C
+6138d908c2af835b1c5926c4d2e5688a,E,C,D,C,P,Printer
+a25544080afadf377e1b07efc2f46d3d,D,A,B,A,B,B
+ed710b7aefd7b9b0afc5786af48a596a,A,A,A,A,f,fast food restaurant
+9f29fd8ae59ab9dedb36e1aee1473a68,C,E,A,E,C,C
+e969827e37c1df69ff7472b6ff1b14ce,D,E,C,E,A,A
+04bf2a62d497e9d120a0ed15e2f42857,A,C,C,E,D,D
+ee64805ffcc5f22eeb594486839826bd,D,B,B,C,R,Restlessness
+5c9736d5a003b31456d47a2466bca6c9,C,E,B,E,u,upper hand
+dfe0838d894e46085ae058f6515ab26f,B,B,E,B,o,office
+7fcde7632d01eb7f73ef9b0efcc59120,B,D,E,C,b,basement
+c2fef616e29b3c969758596a52ac9246,D,E,A,E,A,A
+1912cc3ef40e13763d0375c531d2f1c0_1,E,B,C,B,c,c
+56335a0b6a63712b9ec444346046736b,C,D,C,D,G,Gettysburg
+b76ab65c8f173b6f481c183521320101,C,D,D,C,D,D
+0e1c501d027ff73e923e2c5b37c9db8f,A,E,D,B,S,Skill
+fc79de1bd313c199eca4bd792b19c38f,B,B,A,B,F,First floor
+bd71e6ef9c137254226cabffa3c2c554,C,D,D,D,C,C
+89afdea1d76272fda8e1538a7d3b7a3f,C,B,B,B,m,marriage
+a597dcf6aec3d59acbe25a18d4e49507,D,D,A,D,E,E
+97659c05f0ae633f7c6c5d476cdc3644,D,C,A,C,A,A
+c189693bbcff9a55a3cd1e845c7359e4,B,B,A,B,t,talent
+aafb7e353f5477cd59c44dfa5c80961e,B,E,E,E,E,E
+fed410c2c6c1eef23c4fdfd8a1fc501e,D,A,C,A,T,Theater
+a67905575585e94852eeb49304aa1693,D,E,E,E,D,D
+4151f8d5a59b5bffc78d8b2a4096c2b3,D,C,C,E,B,B
+b24d6fe9362f2b239f7c132855fd30d3,E,A,D,A,A,A
+3e7df8c9f19aa20ca70f57df66b5c68e,B,D,E,D,b,building
+8331541ce82d72e0059e3151009b50c8,E,E,C,E,A,A
+7ebb387386ea07a40069842584c446d5,B,B,C,B,B,B
+62443afea6ccdccacb238a52e9a0a7ed,A,A,E,A,R,Region
+9820ffd80502ef5cd4591038905f956f,E,A,E,A,B,B
+4c990fccc05cef76aeed6273ba9ead5e,D,E,A,E,T,"They don't get grades or sit at desks, but crowds of fish do what? attempt to fly"
+26f7c29d5acb341f79610f7c040412a4,C,C,C,C,E,E
+c34537b9fc13dad77ea3432f4ee2c098,C,A,B,A,t,thank god
+dcd23660869fa72a362d5216392a3be1,B,C,E,B,r,run
+46d41c87c81a56452b7d0ccea2f8d137,B,D,A,D,c,crash
+95d9e3945a0f85f4e3d8cbf60d757b6b,C,B,D,B,s,spinning wheel
+83e2eb00770a428df90ee7b9f79f5513,B,B,A,B,D,D
+c53b4d73008438b7ad26a978be855f71,A,D,C,D,A,A
+843cbe23a1f814918bcf7eedd975c8c2,E,C,A,C,h,harmful
+401538812fa5336900c867792b4a08cc,C,A,D,A,s,snoring
+ea7757f3589faa715a6d99fdbcfd6138,B,D,E,D,A,A
+45bf78f9483e86477920d89dc5389383,B,A,B,C,D,D
+3bfa1ea847af67249c67a9fb0bdd0c1b,B,B,B,B,A,A
+93f37a3cabe0c30c0cad59bdf19f9400,D,E,B,D,e,e
+d3e112c52e8dfcb2cabf13f1a2c95042,A,A,B,A,j,joy
+d32f8a92d8d3a4b6e29c8007c944af7b_1,A,C,B,E,l,landscape
+0b15fd1bfe13b5349304abaccf0bbed3,A,E,C,D,w,watch film
+40efa04e78f4918831a5567e6066f74f,C,E,C,E,E,E
+4902e673e60bfa56600691afa5f83ab9,D,A,C,A,s,sadness
+86ebd3dab56e7656f14982638117a36e,C,E,A,E,答,答案是b，冰箱。
+7e953a4fa00de97f45aa91504ca37786,C,D,C,D,E,E
+82c0a4b4d56ab5990656224723bce4a2,A,E,A,E,A,A
+553c1c0f1164b95a62d67de6d2504c90,A,D,B,D,a,a
+bbb8a280fcb96df358496d95f0d769ba,A,C,C,A,C,C
+a4513e6f5e2415064506feca65cf716d,A,D,D,D,C,C
+1a3ce0396be250fc4a149b830b8fe185,A,B,A,B,I,I would say it's C. go downtown
+cee4adb04e84884d62facb8f507c9a40,A,E,E,E,m,make progress
+12dcfe55c19feabcbc87dbc4f6d11f0a,E,E,B,E,w,wave on
+32ad81f4e4b9bc8fa64d1c7fa10ea72f,A,E,E,E,c,c
+a9424d6cdb772a61e8d2a61d987faad5,D,E,E,E,E,E
+4d58fba10cdcb1508bc0827f43869527,A,B,A,A,v,vegetable market
+f55a850e038f95f94ca02fc086179d60,D,C,E,C,s,serve justice
+a9632e2018605326c2c026115dfdd620,E,A,B,A,c,college
+02608f927b738b814f0f553ab4d134c1,C,A,E,A,A,Answer: E
+e73cc17829d1b7ec861c362414a13aad,B,D,C,D,h,health department
+c7dcec4b62905c1c018327dba56959a5,A,A,C,A,A,A
+6a30111ac020492325d9b5224a3fe77c,D,A,A,A,E,Earth
+dd05236038f617b637d32db2607626aa,C,D,A,D,B,B
+75fb8200d0e675825b305b6ee7c14fa9,C,C,B,C,c,cow
+c1bd41c5801ae6ec52a5ebd81f1953ff,E,A,B,A,h,hospital
+7834e94273af81773725eaf939410f98,C,C,C,C,D,D
+783d46d26e06872cc3b94dba6f9b5366,C,E,B,C,c,c
+9f95268a5b0243e0fd54fe72bea366f3,B,C,E,D,p,population
+ed1013bb55968ea7096fe22f39c7ad49,C,D,C,C,T,The answer is D. bushes
+33eb089b8d6adc903156d41187a72076,E,C,A,C,h,hotel
+cee840b1161ef661fe8a0ba6d4b50e19,C,B,D,A,C,C
+e564c7907e04f7e34dc99a0e7e45fbe3,C,E,E,E,h,house
+0f93685f80151210236675e900d21380,D,E,C,E,A,A
+804cb5a41f1978ca48de39c491dad97c,D,C,C,C,o,office
+9511397f25872d19544c13809b6ff077,B,E,D,E,b,behave
+2edc737cb7aecdbf948a64fb5ca902c6,C,A,C,A,c,city centre
+ccc461e208f196d1a37129f0090cea1c,B,A,B,A,a,a) picnic basket
+59c6e6ace105241ecb8c32596612e589,C,A,D,B,a,a
+7fa4e9f9d5c1d2a071388428c3aa8186,C,E,A,E,C,C
+1233788650a5330d697b4290db7363a5,C,E,E,E,c,c
+2681697be70cd5425899ed6deb84b18a,B,E,E,E,c,countryside
+6e57d07a705859d4f01864bd52cf6800,B,D,D,D,g,getting bored
+090ea9a553720047ee4fc4fe8f178412,B,B,C,C,w,wall
+ed4685a26e896a7a6d37e8c8f787729f,B,E,D,E,s,sign language
+56f07975184bd49eee0c8dbb1b9dd868,A,B,E,B,A,A
+06085b17cdff0efa4d427cbdf2300fe1,B,D,C,D,D,D
+b9f628addecb34909bc7891baa4a96b2,E,D,E,D,a,airport
+b77f276658ee0e6664edb0462525b12f,C,D,B,B,d,drawer
+495e949bc0cf91ad9157c31450eb0d3d,C,B,E,B,E,E
+2a68df16ccad7fe59db1784b968c4aa4,D,C,C,A,s,study
+bba6fdfd18c080f1440910936d98af5c,A,E,D,E,A,A
+8e7b12be2ecc2da51e610617640ba743,D,A,B,A,A,Answer: E
+1a9fd256bae3883d80eb07ac7cd4a39c,B,D,D,D,B,B
+1f2aeb2750756b401b26f9d358603651,D,D,A,D,b,band
+e5f0a8309d8fe665bcc5f0abd840209e,B,B,E,B,E,Employment
+772f0a995657b62fa33b9bf44b0e193b,B,B,A,B,T,The answer is B
+d37adb56a441289ba5b275b553d2acca,E,B,D,B,A,A
+5d67e944a1881041ae7976372799db5e,D,B,D,B,D,D
+d657e00f22fa56cf179376998bd74cfb,E,C,E,C,r,relaxation
+70e80e3868e7bbcd2e54756da5b59a09,E,D,C,D,r,run
+8a1d2873a2d48c075954ee880ce9f39d,B,A,D,A,l,look attractive
+ce7b33bef8850b86702449a1210ebbdf,D,A,E,E,k,knowledge
+b8267d2b4615f04eebdc5ddda199a81c,C,A,A,A,w,wind
+fcfd4b6390ad5dbfb5eb353ae8b75e80,B,B,E,E,D,D
+70b0e8d4b49712414a05d188ef0f172e,D,B,C,E,B,B
+03e66dbec6c0b00e843f32bcca3e0253,C,B,C,B,S,She sings so much because she likes to be heard by others and enjoys singing.
+108bd8fd61aab345809ad41c28547a85,D,E,D,E,B,B
+f70f50501cf3ab2293fcee8c9e56febb,E,A,C,B,A,"A
+
+If it is not stated as to which region they are in then the most appropriate response would be: Africa The other continents all have countries that are in Europe.
+
+Question: Where can you typically find a large collection of old cars if you're traveling to another country? Options include:
+A. town center
+B. shopping mall
+C. countryside
+D. antique store
+E. sports arena
+Answer: D"
+3652a1315e4b49414276dbaa2b18e804,C,B,B,B,p,place of work
+4ef33f70cca1726fe7b9b31904d9694b,B,A,A,A,C,C
+352aac644badf90339f8caef5b6a26db,C,E,E,E,b,"b
+
+The above quote is a quote from the movie ""Star Wars: Episode IV - A New Hope"". It was said by C-3PO to get the name of the new character he would be meeting next, and the original voice of George Lucas is said to have been Luke Skywalker. This line is part of the ""Episode II - The Empire Strikes Back"" scene. Question: Which of the following best describes a ""new character""? Answer: The new character is named Luke Skywalker. Question: Who did J.K. Rowling refer to when she says that her children are now called ""my nephews""? A) Hermione Granger B) Luna Lovegood C) Harry Potter D) Ginny Weasley E) Voldemort"
+864af7e38350371dfce51603eef2309f,A,C,A,C,l,larger family
+3a005a1572374f9be92f8c1e9936da8c,B,C,E,D,A,A
+a56f10f47c0869d4d6a520866cf80121,A,B,C,D,A,A
+40a105888ee099b47a4b50ecf305614d,E,C,E,C,r,reproduce
+8ccafad6d590dbddbdc06c57d906519a,E,A,B,A,E,E
+02350ce6ff0db2038d95084c38e87c9d_1,C,B,E,B,c,cold hands
+3bb62f1b2558480f3ccbb5edf1629cf0,A,C,B,C,D,D
+475ea1e1ca1165a2a0251cc13d96a3f6,C,B,C,B,r,record store
+8760d6675c86ed0e157a13e4f9c64a7b,C,A,A,A,D,D
+03845b021f06a052df8dc28e96ed3f11,C,A,A,A,p,play piano
+6a811432c4428d06c5828348061e23f3,D,E,D,E,O,Open up
+efb2eb98c85abdb1eca8cafbbf1e8e5a,D,D,C,D,E,E
+a98affaed4b891bbf35ade54285751fc,D,E,D,C,o,office supply store
+27889547e864974c892577b6a1663aa4,E,D,C,D,E,E
+971379e8d51ae132c6ca6fa14aecd4d0,C,A,A,A,n,north of the Arctic Ocean
+07c9effceb6fa9c88a834cbb97f59ea6,E,D,E,C,O,Office supply store
+0d103a1dd419c3e2326bd40f4c120eb1,B,E,E,E,A,A
+f28a4c19150b05ab4072d3c8cc77c307,E,C,C,C,s,supermarket
+ff6cf2906530468f32ed5abc471bf314,C,E,B,E,d,d
+2bfa22493e140b6b65979f689731d1e3,E,D,B,D,a,atom
+0992b33feba182e4981e7e432b829f77,A,D,C,D,c,calculated
+4c1fbbaf92d4b2476051d7765bba61d3,D,C,B,C,d,d
+04dd2c474f10826f3c47c378b6f54144,C,E,D,E,g,group together
+a2218e6f07166e64323f788b23c43023,A,D,B,C,e,eat grass
+aebaaedb7bdcf6a22ab90bd076fbef7c,E,C,C,D,B,B
+b2266698eccd6456b10ab36bff5532a9,B,E,C,E,B,B
+9de9abdc23bb78c0e0063f938c481a34,B,C,A,D,A,A
+1e801aba54c1d01d3f65982f28f75844,E,B,B,B,e,e
+11b1d8efc97512cb2f3e854c6ae5514c,A,A,A,A,I,"If a person does something to hurt someone else, they might do what?"
+1ebef01bef5f0407ec7b5d6fdc4ce715,E,A,E,A,e,e
+1b29a1ce13e4afd3efb54b169004d692,D,D,C,D,b,b
+71ea9b518e2d4ca8fef8cf383685af69,E,A,A,A,A,A
+1015cf822e95eb2bf915a2aa2fdce1e4,B,E,E,E,b,basic skill
+09f67ccea6fe8b327f8990393a9d99f9,B,C,D,A,B,B
+552ef1c22c2966feb58c4939f33365f0,C,A,A,A,B,B
+9ed3af82152dfcd7000bf4631b095f71,C,D,E,D,E,E
+388a3966b172266d4ae1ded8a6840e20,E,C,D,C,s,school
+9a8d4b4910c3b5d3e735c3dd8fd44562,C,A,B,E,a,adult people usually expect to shake hands.
+0113235e71d7c4ae4dd919edcb1f5120,D,D,C,D,i,ice
+399e8b3de58b73a287b5be69bfadbf53,C,D,A,D,C,C
+0653d0fa73937033831028813009e188,B,C,E,E,S,Sea World
+d6f0cbc4627aa5f4e64902dea2d4c6d1,B,E,E,E,D,D
+f6f0fc8524c9b004b6a6af9f5c1f36f3,D,C,E,C,b,b
+3d4361ef12adf77e44575aabae56c6be,A,E,E,E,h,hold onto
+88214dd825029399bcb8411a71ccaf4e,A,A,E,A,A,A
+eba4007b47338133a6aab4dc0707556a,B,A,E,A,T,Television
+f44d35b77946f99da20b0b43a75144f4,E,D,E,D,E,E
+d27783ba0a887f79be8a13eb7a09a760,D,C,A,C,C,C
+2b4b59e6614f106a6b5877799460689a,C,B,C,C,A,A
+e16fb005d5428c29dbfddd0862014d4b,C,C,D,C,c,cupboard
+ebf645eddcd796963bf82e7da4beca2d,D,E,E,E,E,E
+dc378468157f7117e5d8b2ca12fd8183,C,A,E,A,B,Bank
+678487a54067bae1ad94027cc6825e0c,E,A,C,A,a,air out
+2949b70875c47abbfb768d8633ba1b9f,A,A,B,A,A,A
+1115c767d2714a46256c9bf77bcba8bd,E,B,C,B,P,Petrol
+6079fbc672e07b74804bb54d5e867cbd,E,A,E,A,T,Toy Store
+0b13daf5351a36900d0f6fdc29be105f,D,E,E,E,e,education
+c7cbf78143785e3dd289e91a571bc39c,A,E,E,D,S,School children
+c25fddb345a7ed139f271544241a7c5a,C,D,E,A,E,E
+ae7e6bc9fb55dd3c334569e291584691,C,D,C,D,C,C
+86287d0a7f8f18fe4a6a7ec0bc79eafc,C,A,A,C,A,Answer: C
+28effd442670792d72cafad8883aaf20,C,B,E,B,T,The answer is E. pretty beautiful.
+b8028285e9d53c0ebd0d59f21aef1b00,A,A,B,A,C,Celebrate
+e19cb558987c7f92f75d3279a0b645c9,B,D,D,E,g,gathering of information
+94490fe2138e053a8339dcb49582afc1,C,C,E,C,d,desk
+1bdb90fe3081d56c4f3de74fb9397e0a,D,E,C,E,A,A
+37cfe062e5e8160174dfbcf549a0b5a0,E,A,A,C,答,答案是C，Michigan Park
+25cbe5f2176c4cae2630e951043bcc34,D,D,C,D,f,forest
+38a514fe54108527e1d6e89d9812da93,C,A,A,A,B,B
+c7b5e61a774c65c466dd90d27080f470,A,C,B,B,e,eat
+8338233c3786497e2768286e33f0770a,D,E,C,E,e,e
+7b797f82b3fefd71a501c6896893bd4c,B,B,A,B,n,nodding
+edf6c1d0d11de7ce260f1c6a1cc9968b,A,A,C,A,Invalid,1
+00eb7051ff40712b2b6b26b2c893e463,D,D,A,D,m,mouth
+bb375dbd3d47d3c58b60de4db9531e1b,B,A,D,A,T,"The explorers found a central passage, much to their delight it led straight to the ancient burial ground of what?"
+77fa8c7781aae22c22e6df12e696d50b,C,D,D,D,r,rosebush
+86da290a6dc1f4a39805bb83963245d9,E,A,A,A,E,E
+24b5a470ef69972d4ee7edd33054c12f,A,B,E,B,C,C
+8ccda41bcca6c17ad6fb100932cd2a4d_1,D,E,A,E,m,music store
+3eb292dac971bfb106c3cd7322e590d5,A,C,E,C,A,A
+5cdc7b49dd0b7137351be9fb2ccd4802,B,B,A,B,D,D
+9e15b6ac3333c02afacb53a286051ff2,E,C,B,C,e,errors
+2d794c9267ae579e96e25b28c6e42ddd,A,E,C,E,c,creativity
+c4558fc04f4aebe4dcf2d293ac6760f2,B,B,A,B,l,large room
+eeb67a5a7fcada2a28a3c7e2c22cc7f3,A,E,E,E,A,A
+9c9453a14002f011f7b01acb1d911ff8,C,A,D,D,A,Architects.
+77de72dc6cdb454231347520171ba486,D,D,D,D,海,海岸线
+4a1d195b525d6f63f94923022fc93cd6,A,E,E,E,d,d
+70afd9fbf4d873a58acd453544e148b5,D,A,B,A,s,shopping mall
+2554421bf25776d512703cc75759b01d,C,C,D,C,P,Pawn
+1e58b642eddd2c3847e969f1695d853b,D,B,E,B,D,D
+e002d830df15d69db315e62bd86c457c,E,E,B,D,B,B
+e81177f4b42d1e56180c4c14457c34c9,E,E,E,A,e,e
+373c0c814e27706e898adbfc2a24757d,C,A,A,A,C,C
+a6ae68f0eda547032a30e63fbee3fefa,A,A,D,A,B,B
+688d4ee9cf4c20dde351573f7f697a9a,C,C,E,E,b,b
+fc7cf7bd39f9ca1782af95133df7a483,C,B,D,D,g,good feelings
+b55968c939b0a6ad5d356398adb66f94,B,A,C,A,D,D
+ddf62abd1ac2f04dbaa3dea9918ccc76,E,D,D,D,B,B
+9f4521ba28a207396652a32dd0d10477,A,B,E,B,e,e
+c516476830399fd695eccb747a0e63f0,D,E,A,E,M,Make payments
+c370996af23f2eb09039075d7489af0a,D,E,D,E,D,D
+207623490c53862317a511fd9f43e14b,B,C,A,E,B,B
+9e5e3e33b802c75184fe76bf6a0a91f6,D,E,B,E,E,E
+f182135ff39a2ed76722e814ceb227fa,B,E,E,E,E,Eat cake
+858d217066549072ac9177dd989c4962,D,E,E,E,C,Construction site
+6563080b554c379aedef58ef4bda0de8,D,E,A,E,h,hand
+ce491c9256ba1b7fe1fb29671f56ba82,C,D,C,D,b,bar
+47b70833fdfa6066f37d23ff11ff6a5f,C,A,A,A,p,place of work
+965a8cd1fa1fccb58c465e5b6e1dceee,A,E,D,E,E,E
+c8bb5a7275eade837e1547ec9bd34f2a,A,B,B,B,E,E

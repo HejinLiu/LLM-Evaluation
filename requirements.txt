@@ -1,0 +1,14 @@
+datasets
+numpy
+openai
+pandas
+scipy
+tqdm
+transformers>=4.37.0
+trl
+matplotlib
+modelscope
+torch
+seaborn 
+
+

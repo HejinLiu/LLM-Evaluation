@@ -1,0 +1,12 @@
+{"id":"Mercury_SC_415702",
+	"question":{
+		"stem":"George wants to warm his hands quickly by rubbing them. Which skin surface will produce the most heat?",
+		"choices":[
+			{"text":"dry palms","label":"A"},
+			{"text":"wet palms","label":"B"},
+			{"text":"palms covered with oil","label":"C"},
+			{"text":"palms covered with lotion","label":"D"}
+		]
+	},
+	"answerKey":"A"
+}
