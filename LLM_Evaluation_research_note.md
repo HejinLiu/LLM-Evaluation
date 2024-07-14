@@ -132,8 +132,7 @@ Answer: {A}
 >
 > 我们的项目是研究对LLM进行提示框架，诱导其进行情感分类。我们的最后一步提示词是：
 > ```
-> Based on the above reasons, how would you describe the sentiment polarity towards the
-> sentence?
+> Based on the above reasons, how would you describe the sentiment polarity towards the sentence?
 > ```
 >
 > 我们当时发现模型一般输出的第一句话是很“规矩”的，类似
