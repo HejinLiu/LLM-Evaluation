@@ -81,8 +81,8 @@ Answer: {A}
 > 假设模型在预训练语料中，有如下数据：
 >
 > ```json
-> {"sentence1"："Snow forms when atmospheric temperatures are at or below freezing (0°C or 32°F), and there is a minimum amount of moisture in the air. "}
-> {"sentence2"："In chemistry class, the teacher asked us what water would become if it solidifies, and I told the teacher the answer: ice."}
+> {"sentence1": "Snow forms when atmospheric temperatures are at or below freezing (0°C or 32°F), and there is a minimum amount of moisture in the air. "}
+> {"sentence2": "In chemistry class, the teacher asked us what water would become if it solidifies, and I told the teacher the answer: ice."}
 > ```
 >
 > 那么如果对模型进行提问：
