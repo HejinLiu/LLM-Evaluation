@@ -16,26 +16,25 @@ def main():
 
     args = parser.parse_args()
 
-    # 创建文件夹
     folder_name = f"experiments/{args.model_name.replace('/', '-')}_{args.dataset_name}_{args.k}-shot"
     os.makedirs(folder_name, exist_ok=True)
 
-    # 加载数据
+    # load data
     data = load_data(args.dataset_name)
     dev_data = load_data(args.dataset_name, is_dev=True)
 
-    # 获取 k-shot 示例
+    # get examples for k-shot evaluation
     examples = get_examples(dev_data, args.k)
 
-    # 运行推理
+    # inference
     results = run_inference(data, examples, args.model_name, folder_name)
 
-    # 保存结果到 CSV
+    # save to CSV
     results_df = pd.DataFrame(results)
     results_csv_path = os.path.join(folder_name, 'results.csv')
     results_df.to_csv(results_csv_path, index=False)
 
-    # 评估
+    # integrate results
     accuracy_df = evaluate_results(results, folder_name)
     print("\n--------Evaluation Completed--------")
     print(accuracy_df)
