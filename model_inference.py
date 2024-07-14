@@ -5,13 +5,12 @@ from modelscope import AutoTokenizer, AutoModelForCausalLM
 from tqdm import tqdm
 import numpy as np
 
-# 加载模型和分词器
 def load_model(model_name):
     model = AutoModelForCausalLM.from_pretrained(model_name, torch_dtype="auto", device_map="auto")
     tokenizer = AutoTokenizer.from_pretrained(model_name)
     return model, tokenizer
 
-# 推理
+# inference
 def run_inference(data, examples, model_name, folder_name):
     device = "cuda" if torch.cuda.is_available() else "cpu"
     model, tokenizer = load_model(model_name)
@@ -25,12 +24,12 @@ def run_inference(data, examples, model_name, folder_name):
         choices = item["question"]["choices"]
         true_answer = item["answerKey"]
 
-        # CP 推理
+        # CP
         cp_raw_choice, _ = cloze_prompting(model, tokenizer, question_stem, choices, examples, normalization='Raw')
         cp_ln_choice, _ = cloze_prompting(model, tokenizer, question_stem, choices, examples, normalization='LN')
         cp_un_choice, _ = cloze_prompting(model, tokenizer, question_stem, choices, examples, normalization='UN')
 
-        # MCP 推理
+        # MCP
         mcp_choice, mcp_response = multiple_choice_prompting(model, tokenizer, question_stem, choices, examples)
 
         results.append({
@@ -45,7 +44,7 @@ def run_inference(data, examples, model_name, folder_name):
 
     return results
 
-# Zero-Shot 和 Few-Shot 提示模板
+# Zero-Shot and Few-Shot template
 def cloze_prompting(model, tokenizer, question, choices, examples=[], normalization='Raw'):
     device = next(model.parameters()).device
     prompt = ""
