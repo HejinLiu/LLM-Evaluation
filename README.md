@@ -2,9 +2,9 @@
 
 ## 概述
 
-LLM评估任务的目标是让⼤模型回答若⼲问题，并将其准确率作为评估指标，探究LLM的性能，然⽽评估⽅式的不同很可能会⼤幅影响评估结果。本项⽬复现了MCP（Multiple Choice Prompt）和CP（Cloze Prompt）两种评估方法并进⾏了对⽐。使用指定模型，在给定数据集上进行 k-shot 推理，并计算其准确率。
+LLM评估任务的目标是让⼤模型回答若⼲问题，并将其准确率作为评估指标，探究LLM的性能，然⽽评估⽅式的不同很可能会⼤幅影响评估结果。本项⽬复现了MCP（Multiple Choice Prompt）和CP（Cloze Prompt）两种评估方法并进⾏了对⽐。这两种方法详见[《Leveraging Large Language Models for Multiple Choice Question Answering》](https://arxiv.org/abs/2210.12353)（ICLR 2023）。
 
-关于本次项目的数据分析、结论、思考，请参见 `LLM_Evaluation_research_note.md`
+使用指定模型，在给定数据集上进行 k-shot 推理，并计算其准确率。关于本次项目的数据分析、结论、思考，请参见 `LLM_Evaluation_research_note.md`
 
 ## 文件结构
 
